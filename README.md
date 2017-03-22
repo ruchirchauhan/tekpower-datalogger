@@ -7,7 +7,7 @@ but I am sure with few tweaks here and there, if at all, it can be used for othe
 So this tekpower model and likes have a communication feature over RS232, using which we should be able to plot and log the data in ral time, but turns out there is no reliable data logger app for PC, so I wrote one on my own, and want to share it here for anyone else who has been in search of such a thing.
 This app is written mainly for linux os but can be ported to windows as well.
 
-# How to make the app working:
+# How to use the app:
 Requirements:
 Linux
 Python 2.7.x
